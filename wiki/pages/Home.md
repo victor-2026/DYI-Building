@@ -1,7 +1,9 @@
 ---
 date: 2026-04-11
 aliases: []
-tags: [home, обзор]
+tags:
+  - home
+  - обзор
 ---
 
 # DYI-Building Vault — обзор
