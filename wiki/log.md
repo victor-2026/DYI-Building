@@ -9,3 +9,5 @@
 ## [2026-04-11] sync | Обновлены Summary и Source на всех страницах, синхронизирован стиль
 
 ## [2026-04-11] wiki | Гидроизоляция окна в брусовом доме с ПСУЛ
+
+## [2026-04-14] wiki | Add: Home, Materials_PСУЛ, Templates, frontmatter to all pages

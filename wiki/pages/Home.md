@@ -1,3 +1,9 @@
+---
+date: 2026-04-11
+aliases: []
+tags: [home, обзор]
+---
+
 # DYI-Building Vault — обзор
 
 Добро пожаловать в локальный vault проекта DYI-Building.
