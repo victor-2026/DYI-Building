@@ -1,0 +1,16 @@
+# Jekyll config for GitHub Pages
+# Prevent search engine indexing
+
+plugins:
+  - jekyll-seo-tag
+
+head:
+  - meta:
+      name: robots
+      content: noindex, nofollow
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      sitemap: false
